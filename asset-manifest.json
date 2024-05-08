@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bot-battlr/static/css/main.40ce28b2.css",
+    "main.js": "/bot-battlr/static/js/main.8b4a0510.js",
+    "index.html": "/bot-battlr/index.html",
+    "main.40ce28b2.css.map": "/bot-battlr/static/css/main.40ce28b2.css.map",
+    "main.8b4a0510.js.map": "/bot-battlr/static/js/main.8b4a0510.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40ce28b2.css",
+    "static/js/main.8b4a0510.js"
+  ]
+}
